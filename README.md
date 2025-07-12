@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Rodríguez Rivas</h1>
 <h3 align="center">I am a data analyst with major in industrial chemistry. Passionate about data management and data-driven decision making.</h3>
 
-- 💬 Ask me about **SQL Server, Power BI, R, Python, Visual Studio 2022, Orange, Excel**
+- 💬 Ask me about **SQL Server, Power BI, R, Python, Visual Studio 2022, Orange, Excel, SAP**
 
 - 📫 How to reach me **rdavidr89@gmail.com**
 
